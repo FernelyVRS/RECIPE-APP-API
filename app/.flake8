@@ -1,6 +1,6 @@
 [flake8]
 exclude =
-  migrations
-  __pytohon__,
+  migrations,
+  __pycache__,
   manage.py,
   settings.py
