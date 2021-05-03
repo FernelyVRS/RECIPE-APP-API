@@ -1,0 +1,6 @@
+[flake8]
+exclude =
+  migrations
+  __pytohon__,
+  manage.py,
+  settings.py
